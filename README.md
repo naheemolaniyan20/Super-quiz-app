@@ -5,9 +5,10 @@
 * Install the dependencies.
 * Run the command "npm start" to start the server on port 3000
 
-### Starting the Front-end
-* Install the dependencies as well.
-* Run the command "npm start" to start the server on port 3000
+### Main Files:
+* Navigate to src
+* Then to components
+* The two main files are Quiz.tsx and QuizQuestions.tsx
 
 ### Browser View
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
