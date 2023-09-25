@@ -9,6 +9,7 @@
 * Navigate to src
 * Then to components
 * The two main files are Quiz.tsx and QuizQuestions.tsx
+* SuperQuiz.css for css
 
 ### Browser View
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
